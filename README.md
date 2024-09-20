@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** specializing in backend development with a passion for improving developer experiences. My expertise lies in **JavaScript**, **TypeScript**, **Node.js**, **C#/.NET**, **React**, and **Next.js**. I love working across the entire stack to deliver comprehensive and efficient solutions.
+I'm a **Full-Stack Software Engineer** specializing in backend development with a passion for improving developer experiences and optimizing workflows. My expertise lies in **JavaScript**, **TypeScript**, **Node.js**, **C#/.NET**, **React**, and **Next.js**. I love working across the entire stack to deliver comprehensive and efficient solutions.
 
 - 🔭 I’m currently working on [John Crickett's Coding Challenges](https://codingchallenges.fyi/challenges/intro/).
 - 🌱 I’m learning about **command-line tools** and **performance optimization**.
